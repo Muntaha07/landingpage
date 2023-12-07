@@ -1,0 +1,342 @@
+@media screen and (max-width: 992px) {
+    #navbaar .container {
+        width: 115rem;
+        /* background-color: aqua; */
+    }
+
+    #navbaar .container .left ul li {
+        font-size: 2rem;
+    }
+
+    #navbaar .container .left ul {
+        gap: 6rem;
+    }
+
+    #navbaar .container .right button {
+        width: 20rem;
+        height: 3.5rem;
+        font-size: 2rem;
+    }
+
+    #navbaar .container .center {
+        width: 17rem;
+    }
+
+    #navbaar .container .center p {
+        font-size: 2.625rem;
+    }
+
+    #heroSection .container {
+        width: 115rem;
+    }
+
+    #heroSection .container h1 {
+        width: 54.6875rem;
+        font-size: 5.125rem;
+        line-height: 6.125rem;
+    }
+
+    #heroSection .container p {
+        width: 63.6875rem;
+        font-size: 2.125rem;
+        line-height: 3.875rem;
+    }
+
+    #heroSection .container .buttons button:nth-child(1) {
+        width: 20rem;
+        height: 3.5rem;
+        font-size: 1.5rem;
+    }
+
+    #heroSection .container .buttons button:nth-child(2) {
+        width: 20rem;
+        height: 3.5rem;
+        font-size: 1.5rem;
+    }
+
+    #secondSection {
+        height: auto;
+    }
+
+    #secondSection .container {
+        width: 115rem;
+        height: auto;
+    }
+
+    #secondSection .container .left {
+        width: max-content;
+        height: max-content;
+        gap: 4rem;
+    }
+
+    #secondSection .container .left h1 {
+        font-size: 5.125rem;
+    }
+
+    #secondSection .container .left p {
+        width: 62rem;
+        color: var(--colour-main-blue-400, #6F7CB2);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Roboto;
+        font-size: 2.125rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 3.925rem;
+    }
+
+    #secondSection .container .right {
+        margin-top: 6rem;
+        width: 50.75rem;
+        height: max-content;
+        /* background-color: red; */
+    }
+
+    #secondSection .container .right img {
+        width: 50.75rem;
+        height: 48.76956rem;
+        flex-shrink: 0;
+    }
+
+    #secondSection .container .left .icons {
+        height: 16rem;
+    }
+
+    #secondSection .container .left .icons .icon1 svg {
+        width: 3.25rem;
+        height: 3.25rem;
+    }
+
+    #secondSection .container .left .icons .icon1 h3 {
+        width: 15.9375rem;
+        font-size: 2rem;
+        line-height: 2.625rem;
+    }
+
+    #secondSection .container .left .icons .icon1 p {
+        width: 29.9375rem;
+        font-size: 1.5rem;
+        line-height: 2.525rem;
+    }
+
+    #secondSection .container .left .icons .icon2 svg {
+        width: 3.25rem;
+        height: 3.25rem;
+    }
+
+    #secondSection .container .left .icons .icon2 h3 {
+        width: 15.9375rem;
+        font-size: 2rem;
+        line-height: 2.625rem;
+    }
+
+    #secondSection .container .left .icons .icon2 p {
+        width: 29.9375rem;
+        font-size: 1.5rem;
+        line-height: 2.525rem;
+    }
+
+    #thirdSection .container {
+        margin-top: 7rem;
+        width: 115rem;
+    }
+
+    #thirdSection .container .left {
+        width: max-content;
+        gap: 4rem;
+    }
+
+    #thirdSection .container .left h1 {
+        font-size: 5.25rem;
+        line-height: 3rem;
+    }
+
+    #thirdSection .container .left p {
+        width: 62rem;
+        font-size: 2.125rem;
+        line-height: 3.925rem;
+    }
+
+    #thirdSection .container .right img {
+        width: 50.75rem;
+    }
+
+    #fourthSection .container {
+        margin-top: 7rem;
+        width: 115rem;
+    }
+
+    #fourthSection .container .left {
+        width: max-content;
+        gap: 4rem;
+    }
+
+    #fourthSection .container .left p {
+        width: 62rem;
+        font-size: 2.125rem;
+        line-height: 3.925rem;
+    }
+
+    #fourthSection .container .left h1 {
+        font-size: 5.25rem;
+    }
+
+    #fourthSection .container .right img {
+        width: 50.75rem;
+    }
+    #fifthSection {
+        margin-top: 7rem;
+    }
+
+    #fifthSection .container {
+        width: 115rem;
+        height: auto;
+    }
+
+    #fifthSection .container .left {
+        width: max-content;
+        gap: 4rem;
+    }
+
+    #fifthSection .container .left p {
+        width: 62rem;
+        font-size: 2.125rem;
+        line-height: 3.925rem;
+    }
+
+    #fifthSection .container .left h1 {
+        font-size: 5.25rem;
+    }
+
+    #fifthSection .container .left button {
+        width: 20rem;
+        height: 3.5rem;
+        font-size: 1.5rem;
+    }
+
+    #fifthSection .container .right img {
+        width: 50.75rem;
+    }
+
+    #sixthSection {
+        gap: 2.8rem;
+    }
+
+    #sixthSection h2 {
+        color: var(--colour-main-blue-900, #091133);
+        text-align: center;
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Roboto;
+        font-size: 4.25rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 3rem;
+        /* display: none; */
+    }
+
+    #sixthSection p:nth-child(3) {
+        /* display: none; */
+        width: 82.5rem;
+        color: var(--colour-main-blue-400, #6F7CB2);
+        text-align: center;
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Roboto;
+        font-size: 2rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 3.625rem;
+    }
+
+    #sixthSection p:nth-child(4) {
+        padding-top: 2rem;
+        color: var(--colour-main-blue-700, #222F65);
+        text-align: center;
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Roboto;
+        font-size: 5.125rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 4.125rem;
+        letter-spacing: 0.0625rem;
+    }
+
+    #sixthSection p:nth-child(5) {
+        margin-top: -1rem;
+        /* display: none; */
+        padding-bottom: 2rem;
+        color: var(--colour-main-blue-600, #37447E);
+        text-align: center;
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Roboto;
+        font-size: 2rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.625rem;
+    }
+
+    #sixthSection p:nth-child(6) {
+        color: var(--colour-main-grey-600, #5D6970);
+        text-align: center;
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Roboto;
+        font-size: 2rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5rem;
+    }
+
+    #sixthSection button {
+        width: 18rem;
+        height: 3.5rem;
+        font-size: 1.5rem;
+    }
+
+    #footer {
+        height: 20rem;
+    }
+
+    #footer .container {
+        width: 115rem;
+        gap: 3rem;
+    }
+
+    #footer .container .first>p {
+        color: var(--colour-main-grey-400, #939EA4);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Roboto;
+        font-size: 2rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5rem;
+    }
+
+    #footer .container .first h3 {
+        color: var(--colour-logo-primary, #37447E);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Roboto;
+        font-size: 2.625rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 2.375rem;
+    }
+
+    #footer .container .first button {
+        width: 18rem;
+        height: 3.5rem;
+        font-size: 1.5rem;
+    }
+
+    #footer .container .last ul {
+        gap: 4rem;
+    }
+
+    #footer .container .last ul li {
+        font-size: 1.875rem;
+        line-height: 1.5rem;
+    }
+
+    #footer .container .last ul li img {
+        width: 2rem;
+        /* height: 1rem; */
+        flex-shrink: 0;
+    }
+}
